@@ -15,6 +15,6 @@ sample 보는순서
  */
 export default function App() {
   return (
-    <ConfigHeaderScreen/>
+    <HelloNavigtionScreen/>
   );
 }
